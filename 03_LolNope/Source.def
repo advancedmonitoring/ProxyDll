@@ -1,0 +1,20 @@
+LIBRARY "VERSION"
+EXPORTS
+
+GetFileVersionInfoA = nop
+GetFileVersionInfoByHandle = nop
+GetFileVersionInfoExA = nop
+GetFileVersionInfoExW = nop
+GetFileVersionInfoSizeA = nop
+GetFileVersionInfoSizeExA = nop
+GetFileVersionInfoSizeExW = nop
+GetFileVersionInfoSizeW = nop
+GetFileVersionInfoW = nop
+VerFindFileA = nop
+VerFindFileW = nop
+VerInstallFileA = nop
+VerInstallFileW = nop
+VerLanguageNameA = nop
+VerLanguageNameW = nop
+VerQueryValueA = nop
+VerQueryValueW = nop
